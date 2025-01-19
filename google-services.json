@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705103532249",
+    "project_id": "ideal1-f1dce",
+    "storage_bucket": "ideal1-f1dce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705103532249:android:f0ce1febbe15ce56a4aec8",
+        "android_client_info": {
+          "package_name": "com.viktoria.ideal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDRL1wmXl5eYIJHBveZSFIIdjwIOwM8OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
